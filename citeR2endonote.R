@@ -34,7 +34,8 @@ citeR2endonote <- function(pkg_list, filename, type = "endnote") {
                         "\n%N ", c$number,
                         "\n%P ", c$pages,
                         "\n%R ", c$doi,
-                        "\n%U ", c$url))
+                        "\n%U ", c$url,
+                        "\n"))
     }
     sink()
   }
