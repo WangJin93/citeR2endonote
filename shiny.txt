@@ -1,0 +1,20 @@
+%0 Journal Article
+%A Chang, Winston
+%A Cheng, Joe
+%A Allaire, JJ
+%A Sievert, Carson
+%A Schloerke, Barret
+%A Xie, Yihui
+%A Allen, Jeff
+%A McPherson, Jonathan
+%A Dipert, Alan
+%A Borges, Barbara
+%+ 
+%T shiny: Web Application Framework for R
+%V 
+%D 2023
+%V 
+%N 
+%P 
+%R 
+%U https://CRAN.R-project.org/package=shiny

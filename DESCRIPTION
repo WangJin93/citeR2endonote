@@ -1,0 +1,10 @@
+Package: citeR2endonote
+Type: Package
+Title: Export the references of R package to bibtex and endnote format files
+Version: 0.1.0
+Author: Jin wang
+Maintainer: Jin Wang <jin.wang93@outlook.com>
+Description: Export the references of R package to bibtex and endnote format files
+License: No
+Encoding: UTF-8
+LazyData: true
